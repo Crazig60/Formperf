@@ -1,0 +1,69 @@
+body{
+    width: 100%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+[data-mainheader="header"] {
+    display: flex;
+    align-items: center;
+    width: auto;
+    background-image: url(/image/beachBanner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid;
+    border-color: rgb(220, 224, 221);
+    box-shadow: 2px 5px 8px rgba(114, 114, 241, 0.603);
+    height: 100px;
+}
+[data-mainheader="header"] h1{
+    position: absolute;
+    left: 36%;
+    font-size: 1.5rem;
+    color: rgb(220, 224, 221);
+    text-shadow: 5px 2px 8px blue;
+    
+}
+.fPerf{
+    left: 20%;
+    width: 80px;
+    margin: 10px;
+}
+[data-mainmenu="menu"]{
+    position: fixed;
+    top: 50%;
+    right: 0px;
+}
+[data-mainmenu="menu"] ul{
+    display: block;
+    list-style-image: url(/image/pictogramme/coconut.png);
+    font-size: 1.0rem;      
+}
+[data-mainmenu="menu"] a{
+    color: rgb(220, 224, 221);
+    text-shadow: 5px 2px 8px blue;
+}
+main{
+    text-align: center;
+    background-image: url(/image/brinDePlage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1024px;
+}
+main p{
+    color: rgb(220, 224, 221);
+    text-shadow: 5px 2px 8px blue;
+}
+iframe{
+    border: unset;
+    border-color: rgb(220, 224, 221);
+    box-shadow: 2px 5px 8px rgba(114, 114, 241, 0.603);
+    
+}
+
+[data-mainfooter="footer"] {
+    text-align: center;
+    color: rgb(220, 224, 221);
+    text-shadow: 5px 2px 8px blue;
+    background-color: rgba(182, 221, 231, 0.76);
+}
