@@ -50,7 +50,8 @@ main{
     text-align: center;
     border: unset;
     border-color: aliceblue;
-    box-shadow: 10px 5px 8px rgba(114, 114, 241, 0.603);
+    border-radius: 15px;
+    box-shadow: 10px 2px 8px rgba(114, 114, 241, 0.603);
     background-image: url(../image/boucan.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -59,6 +60,8 @@ main{
     padding: 10px;
 }
 main p{
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin: auto;
     text-align: center;
     color: rgb(220, 224, 221);
@@ -70,8 +73,8 @@ main p{
     border-radius: 20px 0px;
     margin: auto;
     width: 30%;
-    color: rgb(220, 224, 221);
-    text-shadow: 10px 8px 8px blue;
+    color: blue;
+    text-shadow: 20px 5px 2px rgb(220, 224, 221);
     border-color: rgb(220, 224, 221);
     box-shadow: 2px 5px 8px rgba(114, 114, 241, 0.603);
     padding: 10px;
