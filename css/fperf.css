@@ -8,6 +8,7 @@ body{
     display: flex;
     align-items: center;
     width: auto;
+    margin: auto;
     background-image: url(../image/beachBanner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -50,7 +51,7 @@ main{
     border: unset;
     border-color: aliceblue;
     box-shadow: 10px 5px 8px rgba(114, 114, 241, 0.603);
-    background-image: url(../image/brinDePlage.jpg);
+    background-image: url(../image/boucan.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 95%;
@@ -70,14 +71,14 @@ main p{
     margin: auto;
     width: 30%;
     color: rgb(220, 224, 221);
-    text-shadow: 5px 2px 8px blue;
+    text-shadow: 10px 8px 8px blue;
     border-color: rgb(220, 224, 221);
     box-shadow: 2px 5px 8px rgba(114, 114, 241, 0.603);
     padding: 10px;
 }
 .imageArticle {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }
 figure{
     font-size: 1rem;
@@ -87,7 +88,7 @@ iframe{
     border: inset;
     border-color: rgb(220, 224, 221);
     box-shadow: 2px 5px 8px rgba(114, 114, 241, 0.603);
-    
+    margin-bottom: 50px;
 }
 
 [data-mainfooter="footer"] {
@@ -116,6 +117,5 @@ iframe{
     .figureform{
         margin: auto;
         font-size: 0.5rem;
-        text-overflow: clip;
     }
 }
