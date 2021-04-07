@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     width: auto;
-    background-image: url(../image/beachBanner.jpg);
+    background-image: url(/image/beachBanner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border: solid;
@@ -32,11 +32,11 @@ body{
 [data-mainmenu="menu"]{
     position: fixed;
     top: 50%;
-    right: 0px;
+    right: 25px;
 }
 [data-mainmenu="menu"] ul{
     display: block;
-    list-style-image: url(../image/pictogramme/coconut.png);
+    list-style-image: url(/image/pictogramme/coconut.png);
     font-size: 1.0rem;      
 }
 [data-mainmenu="menu"] a{
