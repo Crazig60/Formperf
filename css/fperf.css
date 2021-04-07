@@ -44,7 +44,7 @@ body{
     text-shadow: 5px 2px 8px blue;
 }
 main{
-    display: flex;
+    display: block;
     margin: auto;
     text-align: center;
     border: unset;
