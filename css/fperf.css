@@ -74,6 +74,9 @@ article{
     box-shadow: 2px 5px 8px rgba(114, 114, 241, 0.603);
     padding: 10px;
 }
+figure{
+    font-size: 1rem;
+}
 iframe{
     border: inset;
     border-color: rgb(220, 224, 221);
