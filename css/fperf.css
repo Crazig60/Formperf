@@ -73,8 +73,8 @@ main p{
     border-radius: 20px 0px;
     margin: auto;
     width: 30%;
-    color: blue;
-    text-shadow: 20px 5px 2px rgb(220, 224, 221);
+    color:white;
+    text-shadow: rgb(53, 89, 219) 3px 0px 0px, rgb(53, 89, 219) 2.83487px 0.981584px 0px, rgb(53, 89, 219) 2.35766px 1.85511px 0px, rgb(53, 89, 219) 1.62091px 2.52441px 0px, rgb(53, 89, 219) 0.705713px 2.91581px 0px, rgb(53, 89, 219) -0.287171px 2.98622px 0px, rgb(53, 89, 219) -1.24844px 2.72789px 0px, rgb(53, 89, 219) -2.07227px 2.16926px 0px, rgb(53, 89, 219) -2.66798px 1.37182px 0px, rgb(53, 89, 219) -2.96998px 0.42336px 0px, rgb(53, 89, 219) -2.94502px -0.571704px 0px, rgb(53, 89, 219) -2.59586px -1.50383px 0px, rgb(53, 89, 219) -1.96093px -2.27041px 0px, rgb(53, 89, 219) -1.11013px -2.78704px 0px, rgb(53, 89, 219) -0.137119px -2.99686px 0px, rgb(53, 89, 219) 0.850987px -2.87677px 0px, rgb(53, 89, 219) 1.74541px -2.43999px 0px, rgb(53, 89, 219) 2.44769px -1.73459px 0px, rgb(53, 89, 219) 2.88051px -0.838247px 0px;
     border-color: rgb(220, 224, 221);
     box-shadow: 2px 5px 8px rgba(114, 114, 241, 0.603);
     padding: 10px;
