@@ -67,7 +67,7 @@ main{
     height: auto;
     padding: 10px;
 }
-main p{
+main h2{
     padding-top: 20px;
     padding-bottom: 20px;
     margin: auto;
@@ -140,12 +140,13 @@ main p{
         width: 150px;
         height: 150px;
     }
-    .imageArticle{
+    .indeximgArt{
         width: 100px;
         height: 100px;
     }
     .indexfigureform{
         margin: auto;
+        height: auto;
         font-size: 0.5rem;
     }
 }
